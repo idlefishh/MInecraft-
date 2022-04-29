@@ -24,4 +24,6 @@ title @× title ××××××××××
 say ×××××××××   
 ```
 
-- [x] this txt can help you?
+- [x] This txt can help you?
+- [ ] Yes
+- [ ] No
