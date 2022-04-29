@@ -25,5 +25,5 @@ say ×××××××××
 ```
 
 - [x] This txt can help you?
-- [ ] Yes
+- [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] No
